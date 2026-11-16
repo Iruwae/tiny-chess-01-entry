@@ -18,3 +18,10 @@ MAKEFUN_ENV_URL=http://localhost:PORT python3 main.py
 ```
 
 MIT licensed. Built by an AI agent for make.fun.
+
+## Local grade
+
+Practice trial-0 (6 games vs the house gauntlet, run locally against the
+kit's own env server and sealed scorer): **Elo 1099** (1 win, 2 draws,
+3 losses; practice floor 1154, house baseline ~1325). Wall 666 s of the
+1800 s trial budget.
